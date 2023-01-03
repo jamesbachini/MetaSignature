@@ -1,8 +1,12 @@
 # MetaSignature
 
-Creating a dApp to sign a document seemed easier than finding witnesses.
+Use the dApp here: [https://jamesbachini.github.io/MetaSignature/](https://jamesbachini.github.io/MetaSignature/)
 
-This simple single file index.html script connects to metamask or another eth wallet and allows you to sign data such as the hash of a PDF legal file.
+Creating a dApp to sign a legal document seemed easier than finding witnesses.
+
+This simple script connects to metamask or another eth wallet and allows you to sign data such as the hash of a PDF legal file.
+
+Source code in docs/index.html
 
 ## Repository
 https://github.com/jamesbachini/MetaSignature
